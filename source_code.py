@@ -698,6 +698,7 @@ poem_sentence_11 = [
   [
     constant_char["파열"]["연구개"]["거센"],
     vowels_char["후설"]["평순"]["중"],
+    constant_char["비음"]["양순"],
   ],
   [
     constant_char["파열"]["양순"]["거센"],
@@ -811,10 +812,10 @@ poem_sentence_12 = [
     vowels_char["전설"]["평순"]["중"],
   ],
   "space",
-  # 천사를 보내지
+  # 찬사를 보내지
   [
     constant_char["파찰"]["경구개"]["거센"],
-    vowels_char["후설"]["평순"]["중"],
+    vowels_char["후설"]["평순"]["저"],
     constant_char["비음"]["치조"],
   ],
   [
